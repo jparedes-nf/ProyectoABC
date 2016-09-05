@@ -8,7 +8,5 @@ Adios Mundo Cruel
 # Otro cambio sobre master
 # Mas cambios sobre master
 
-# Introduccion de cambio equivocado
-
 # Otros cambios
 # Mas cambios
