@@ -1,7 +1,7 @@
 # Encabezado
 hola
 
-Adios
-Mundo Cruel
+# Correccion de fallo critico en master
+Adios Mundo Cruel
 
 # Cambio sobre master
