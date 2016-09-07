@@ -1,1 +1,9 @@
 # Encabezado Archivo Principal
+
+## Intro
+
+Lorem ipsum dolor...
+
+## Resumen
+
+Lorem ipsum dolor...
